@@ -3,3 +3,6 @@ hi there
 How is it going
 
 Like the changes that i have made?
+
+
+I was wondering if i can commit this without merging to the master???
